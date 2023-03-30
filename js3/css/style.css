@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: blue;
+    position: absolute;
+    left: 59%;
+    top: 55%;
+    border-radius: 7px;
+    font-size: 20px;
+    padding: 25px 40px;
+    color: white;
+}
+
+body {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+}
+
+body h3 {
+    position: absolute;
+    left: 35%;
+    top: 40%;
+    font-size: 50px;
+
+}
+
+body input {
+    position: absolute;
+    left: 35%;
+    top: 55%;
+    border-radius: 7px;
+    background: green;
+    color: white;
+    font-size: 20px;
+    padding: 25px 40px;
+}
+
+body h2 {
+    position: absolute;
+    left: 40%;
+    top: 76%;
+    font-size: 50px;
+}
